@@ -1,0 +1,36 @@
+.hoje
+{
+    color: darkgreen;
+    font-weight: bold;
+}
+
+.amanha
+{
+    color: darkblue;
+    font-weight: bold;
+}
+
+a
+{
+    text-decoration: none
+}
+
+h2 .link
+{
+    color: royalblue;
+}
+
+p {
+    font-size: 20px;
+}
+
+* 
+{
+    font-family: Arial;
+}
+
+h1
+{
+    color: white;
+    background-color: OrangeRed;
+}
